@@ -1,0 +1,15 @@
+run = ["python3", "main.py"]
+language = "python3"
+entrypoint = "main.py"
+hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
+
+audio = true
+modules = ["python-3.10"]
+
+[nix]
+channel = "stable-22_11"
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix", "venv", ".config"]
+
+[env]
