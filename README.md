@@ -11,7 +11,7 @@ The snake accelerates as you score points — how long can you survive?
 - Score display
 - Clean and simple GUI using Pygame
 
-## Here are some screenshot of the game in action:
+## Here are some screenshots of the game in action:
 
 <p align="left">
   <img src="screenshot.png" alt="Snake Game" width="400 style="margin-right: 30%;"/>
