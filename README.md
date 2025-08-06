@@ -13,16 +13,13 @@ The snake accelerates as you score points — how long can you survive?
 
 ## Here are some screenshot of the game in action:
 
-<p align="center">
+<p align="left">
   <img src="screenshot.png" alt="Snake Game" width="600"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="screenshot_gameover.png" alt="Snake Game" width="600"/>
 </p>
 
 
-
-![Snake Game](screenshot.png)
-![Game OVER](screenshot_gameover.png)
 
